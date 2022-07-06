@@ -1,5 +1,10 @@
 
 # Como ejecutar el script
+>Clonamos el repositorio y accedemos a la raiz del mismo
+>    
+>``git clone https://github.com/albertorobles2000/TFG-AlbertoRoblesHernandez.git``  
+>``cd TFG-AlbertoRoblesHernandez``
+>
 >Para construir la aplicación lo primero que debe hacer es crear un entorno virtual de python
 >Para instalar virtualenv:
 >    
