@@ -1,4 +1,12 @@
-
+# Que hace el script
+>
+>El script ejecuta un pipeline que generará redes bipartitas en un formato
+>soportado por Gephi, en ``data/refined``, donde las redes bipartitas
+>estaran compuestas por las compañías mas sostenibles durente la pandemia
+>de la Covid-19, y los hashtags que estas han publicado sobre el Coronavirus.
+>También generará 3 graficas de frecuencia de publicación, general, por las
+>compañías españolas y por las compañías italianas.
+>
 # Como ejecutar el script
 >Clonamos el repositorio y accedemos a la raiz del mismo
 >    
